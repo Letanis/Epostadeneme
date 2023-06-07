@@ -1,2 +1,2 @@
-# Epostadeneme
-Epostadenemearacı
+# Eposta deneme
+Eposta deneme aracı
